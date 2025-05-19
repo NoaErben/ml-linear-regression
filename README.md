@@ -1,4 +1,4 @@
-# ML Linear Regression from Scratch
+# ML Linear Regression Project
 
 This project was developed as part of the "Machine Learning from Data" course. It provides a hands-on implementation of **linear regression**, covering data preprocessing, model training using gradient descent, and performance evaluation.
 
